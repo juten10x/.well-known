@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/juten10x
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://juten10x.github.io
+  * I am juten10x (https://keybase.io/juten10x) on keybase.
+  * I have a public key ASCcQj6Nvo5r2GJZ8wSKM-R2tVhrmaSDlNmmIAp-QnmGPwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fba2c5a85f8f96de84d2e23e302893d7562eb3cb5396b2eb32cea4763efc81f10a",
+      "host": "keybase.io",
+      "kid": "01209c423e8dbe8e6bd86259f3048a33e476b5586b99a48394d9a6200a7e4279863f0a",
+      "uid": "ce80adb6b68750f6f4068a631fb99f19",
+      "username": "juten10x"
+    },
+    "merkle_root": {
+      "ctime": 1741083905,
+      "hash": "02f7d91890e1ec546b36c5f03f9823f247ee21e44fca972d0ac44b2e8f99c935aa015e155baa4ede4feea7bf383ca32a5f09981a3d58bda97c5a22eb1d7f3c79",
+      "hash_meta": "0b3084a17ac72906759a0769cfd8b687cfd2decc9136ee5b667ab0f389a4f781",
+      "seqno": 26596938
+    },
+    "service": {
+      "entropy": "bGevJixXOythrLaaybbjGOd5",
+      "hostname": "juten10x.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1741083945,
+  "expire_in": 504576000,
+  "prev": "d94fba372ef62e7e43a000b04e7dece2536458e27b750cbb558568149776dba6",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnEI+jb6Oa9hiWfMEijPkdrVYa5mkg5TZpiAKfkJ5hj8Kp3BheWxvYWTESpcCDMQg2U+6Ny72Ln5DoACwTn3s4lNkWOJ7dQy7VYVoFJd226bEIFG5BcXm6Ng2cMFsPK+4dfSbSQm/rD5OfTSq+mf/QX5AAgHCo3NpZ8RAZ2IOy9vDzKPIcnUPmqfdnerxH2KRqLgj0HnKKrZcxQn7DaZgSbUT0bMkihg2Y9pywRSdrLb+bDl5DTRweW3pDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGgHw1IlixuyzYCrp+t18t5EZvLvEVrfXlDjQovPmMKyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/juten10x
+
+==================================================================
